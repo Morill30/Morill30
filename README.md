@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Morill30
-- 👀 I’m interested in the crazy stuff in the universe.
-- 🌱 I’m currently learning AWS cloud resources.
-- 💞️ I’m looking to collaborate on devops related work or full stack integrations.
+- 👀 I’m interested in tech and how quick it's moving.
+- 🌱 I’m currently working with cloud resources.
+- 💞️ I’m looking to collaborate on any type of software engineering work.
 - 📫 How to reach me. Email: morillo30@gmail.com
 
 <!---
